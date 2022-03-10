@@ -82,6 +82,8 @@ body{
 
 
 .meni{
+	position: relative;
+	z-index: 99;
 	width: 100%;
 	height: 60px;
 	padding-bottom: 5px;
@@ -278,8 +280,6 @@ span.tekst{
 	-moz-transform: scale(1.1);
   	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
-	-webkit-filter:blur(3px);
-	filter: blur(3px);
 }
 
 .leva img{
@@ -348,6 +348,8 @@ span.tekst{
 /* =================GALERIJA===================== */
 
 .galerija{
+	position: relative;
+	z-index: 0;
 	margin: 10px 50px;
 	padding-left:25px;
 }
