@@ -14,7 +14,7 @@ html{
 
 body{
 
-	background-image: url("../img/pozadina.jpg");
+	background-image: url("pozadina.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
 	background-size: cover;
@@ -216,9 +216,10 @@ footer{
 }
 
 .zagoogle{
-	color:white;
+	color:yellow;
 	text-decoration: none;
-	padding-left:20px;
+	margin-left:100px;
+	margin-right:100px;
 }
 
 /* =================FUTER===================== */
