@@ -1,0 +1,51 @@
+<html>
+<head>
+	<title> Vlada Palijan 78/20 </title>
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="img/ikonica.ico" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@800&display=swap" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/e9790c3481.js" crossorigin="anonymous"></script>
+	<link href="https://fonts.googleapis.com/css2?family=Merienda&display=swap" rel="stylesheet">
+</head>
+<body>
+
+		
+	<nav>
+		
+		<div class="logo">
+				<a href="index.html"><p id="p1"> RECEPTI  </p>
+				<p class="razmak1"><i class="fa-solid fa-burger razmak"></i></p></a>
+		</div>
+		
+
+
+
+        <ul>
+            <li><a href="index.html">NASLOVNA</a></li>
+			<li><a href="#">USKORO1&dtrif;</a>
+				<ul>
+					<li><a href="#">Prvi slajd</a></li>
+					<li><a href="#">Drugi slajd</a></li>
+					<li><a href="#">Treci slajd</a></li>
+				</ul>
+			</li>
+            <li><a href="#">USKORO2</a></li>
+            <li><a href="#">GALERIJA</a></li>
+            <li><a href="#">KONTAKT</a></li>
+        </ul>
+
+	</nav>
+	
+
+
+
+	<footer>
+        
+		<p id="pfuter">All rights reserved &copy; ICT College 2021</p>
+
+    </footer>
+	
+	
+</body>
+</html>
